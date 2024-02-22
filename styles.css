@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	margin:1em;
+}
+h1{
+	color:blueviolet;
+}
